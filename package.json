@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "npx tsx --env-file .env test.ts"
+  },
   "dependencies": {
     "dotenv": "^16.4.5",
     "tsx": "^4.19.1"
