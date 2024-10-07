@@ -23,4 +23,4 @@ npx tsx --env-file .env test.ts
 
 # Issue Link
 
-This is a MWE for [this GitHub issue on the `tsx` rpo](https://github.com/privatenumber/tsx/issues/662). When that is resolved I'll archive this repo.
+This is a MWE for [this GitHub issue on the `tsx` repo](https://github.com/privatenumber/tsx/issues/662). When that is resolved I'll archive this repo.
